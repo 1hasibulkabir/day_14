@@ -37,6 +37,8 @@
                             </tr>
                         </tbody>
                     </table>
+                    <?php } else {?>
+                    <h1 class="text-danger text-center">Sorry No record found</h1>
                     <?php } ?>
                 </div>
             </div>
